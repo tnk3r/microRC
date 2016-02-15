@@ -11,19 +11,19 @@ Supported Features:
 
 -Supports TCP/IP Connection only..
 
-FrameRate
+  -FrameRate
 
-ShutterSpeed
+  -ShutterSpeed
 
-WhiteBalance
+  -WhiteBalance
 
-ISO
+  -ISO
 
-RecordFunction
+  -RecordFunction
 
-Project FPS, Redcode
+  -Project FPS, Redcode
 
-Also, F-Stop on Supported Still Lenses.
+  -F-Stop on Supported Still Lenses.
 
 Give thanks to original author: tink3r
 
