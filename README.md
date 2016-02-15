@@ -10,8 +10,8 @@ It would need an additional thread and parser to get status, this is not include
 Supported Features:
 
 -Supports TCP/IP Connection only..
--FrameRate
--ShutterSpeed
+-FrameRate\n
+-ShutterSpeed\n
 -WhiteBalance
 -ISO
 -RecordFunction
