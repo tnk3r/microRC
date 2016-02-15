@@ -10,13 +10,13 @@ It would need an additional thread and parser to get status, this is not include
 Supported Features:
 
 -Supports TCP/IP Connection only..
--FrameRate\n
--ShutterSpeed\n
--WhiteBalance
--ISO
--RecordFunction
--Project FPS, Redcode
--Also, F-Stop on Supported Still Lenses.
+FrameRate
+ShutterSpeed
+WhiteBalance
+ISO
+RecordFunction
+Project FPS, Redcode
+Also, F-Stop on Supported Still Lenses.
 
 Give thanks to original author: tink3r
 
