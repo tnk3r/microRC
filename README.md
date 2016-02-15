@@ -27,8 +27,7 @@ Supported Features:
 
 Give thanks to original author: tink3r
 
-Homie don’t right click. can’t open it don’t own it. keep it down right dirty nerdy, son 
-don’t ask me to setup your network. Ask your IT dept. Dont be Lame, Share with others.
+keep it down right dirty nerdy, son. don’t ask me to setup your network. Ask your IT dept. Dont be Lame, Share with others.
 
 
 I don’t acknowledge use of this software. Use AT YOUR OWN RISK!!
